@@ -1,4 +1,4 @@
-# OBU 教师评价系统 | RateMyProf for CDUT-OBU
+RateMyProf for CDUT-OBU
 
 > **我们相信，信息应该自由流动，而非困于孤岛。**
 > **我们相信，经验应该得以传承，而非随毕业消散。**
