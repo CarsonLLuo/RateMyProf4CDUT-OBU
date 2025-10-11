@@ -36,6 +36,14 @@ db.sqlite3-journal
 media/
 staticfiles/
 
+# 数据库备份和导出文件
+backups/
+*.sql
+*.dump
+*_backup.json
+*_export.json
+test_data.json
+
 # Virtual Environment
 venv/
 env/
