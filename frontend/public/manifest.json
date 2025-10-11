@@ -1,0 +1,15 @@
+{
+  "short_name": "CDUT-OBU 评教",
+  "name": "成都理工大学与牛津布鲁克斯大学教师评价系统",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#263D6A",
+  "background_color": "#ffffff"
+}
