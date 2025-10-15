@@ -1,0 +1,79 @@
+# Python Dependencies Analysis Report
+
+## Language: python
+## Primary dependency file: requirements.txt
+
+## Existing dependency files:
+=== requirements.txt ===
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+lxml>=4.6.3
+selenium>=4.0.0
+undetected-chromedriver>=3.5.0
+
+## Discovered imports (53 unique):
+from authentication.models import UserProfile
+from datetime import datetime
+from datetime import timedelta
+from decouple import config
+from django.apps import AppConfig
+from django.conf import settings
+from django.conf.urls.static import static
+from django.contrib import admin
+from django.contrib.auth import authenticate
+from django.contrib.auth.models import User
+from django.contrib.auth.models import User, Group
+from django.core.management import execute_from_command_line
+from django.core.management.base import BaseCommand
+from django.core.paginator import Paginator
+from django.core.validators import MinValueValidator, MaxValueValidator
+from django.core.wsgi import get_wsgi_application
+from django.db import migrations, models
+from django.db import models
+from django.db import transaction
+from django.db.models import Q, Avg
+from django.test import TestCase
+from django.urls import path
+from django.urls import path, include
+from django_filters import rest_framework as filters
+from django_filters import rest_framework as filters_rest
+from django_filters.rest_framework import DjangoFilterBackend
+from pathlib import Path
+from rest_framework import filters as rest_filters
+from rest_framework import generics, filters, viewsets, status
+from rest_framework import generics, status, viewsets
+from rest_framework import serializers
+from rest_framework import status
+from rest_framework.decorators import api_view
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.permissions import AllowAny, IsAuthenticated
+from rest_framework.response import Response
+from rest_framework.routers import DefaultRouter
+from rest_framework_simplejwt.tokens import RefreshToken
+from reviews.models import Review
+from reviews.serializers import ReviewSerializer
+from teachers.models import Teacher
+import django
+import django.contrib.auth.models
+import django.contrib.auth.validators
+import django.core.validators
+import django.db.models.deletion
+import django.utils.timezone
+import json
+import os
+import pymysql
+import shutil
+import sys
+import traceback
+
+## Generated dependency file:
+Django>=4.2
+djangorestframework>=3.14
+django-filter>=23.5
+python-decouple>=3.6
+PyMySQL>=1.0
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+lxml>=4.6.3
+selenium>=4.0.0
+undetected-chromedriver>=3.5.0
