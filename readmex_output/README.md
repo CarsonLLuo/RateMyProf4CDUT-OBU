@@ -356,9 +356,7 @@ RateMyProf_OBU/
 
 ### 主要贡献者:
 
-<a href="https://github.com/CarsonLLuo/RateMyProf4CDUT-OBU/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CarsonLLuo/RateMyProf4CDUT-OBU" alt="contrib.rocks image" />
-</a>
+- **[Carson Luo](https://github.com/CarsonLLuo)** - 项目创建者和主要开发者
 
 <!-- 许可证 -->
 ## 🎗 许可证
