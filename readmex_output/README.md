@@ -4,6 +4,8 @@
 
 <h3 align="center">RateMyProf4CDUT-OBU</h3>
 
+<img src="images/logo.png" alt="RateMyProf4CDUT-OBU Logo" width="150" style="margin-bottom: 20px;">
+
   <p align="center">
     一个为成都理工大学牛津布鲁克斯学院 (CDUT-OBU) 学生量身打造的开源教师评价平台。
     <br />
@@ -57,7 +59,6 @@
 <!-- 关于项目 -->
 ## 📖 关于项目
 
-[![流程图](images/flow.png)](https://github.com/CarsonLLuo/RateMyProf4CDUT-OBU)
 
 这是一个为成都理工大学牛津布鲁克斯学院 (CDUT-OBU) 学生量身打造的开源教师评价平台，是知名网站 "Rate My Professors" 的克隆实现。项目旨在提供一个开放、透明的平台，让学生可以分享和查阅关于教师和课程的真实反馈，帮助同学们更好地进行课程选择。
 
